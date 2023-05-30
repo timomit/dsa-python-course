@@ -24,3 +24,4 @@ repos:
     hooks:
       - id: flake8-nb
         files: ".ipynb"
+        args: ["--notebook-cell-format", "{nb_path}#In[{code_cell_count}]"]
