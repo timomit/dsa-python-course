@@ -1,21 +1,15 @@
-# Python Einführungskurs für das Physikalische Anfängerpraktikum der Universität Heidelberg
+# Python-Tutorial für den Brain-Inspired Computing Kurs bei der Deutschen Schülerakademie 2023
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nilsleiffischer/python-course/deploy?filepath=index.ipynb)
+Dieses Python-Turorial wurde als allgemeine Einführung in die beste Programmiersprache der Welt für die Teilnehmer:innen des [Kurs 5.3 Vom Gehirn lernen](https://www.schuelerakademien.de/programm/kurs?tx_ewacademy_coursedetail%5Bcontroller%5D=Course&tx_ewacademy_coursedetail%5Bcourse%5D=4380&cHash=4966e55f9e1ae4f7fc760bad72c68286) des Deutschen Schülerakademie 2023 konzipiert.
+Er basiert im Wesentlichen auf dem Einführungskurs Python des physikalischen Anfängerpraktikums der Uni Heidelberg, den wir für den DSA-Kurs angepasst haben.
 
-Dieser Kurs soll im Rahmen des Physikalischen Anfängerpraktikums der Universität Heidelberg eine Einführung in die wissenschaftliche Arbeit mit Python geben.
-
-- [Einleitung](INTRO.md)
-- [**Interaktive Kursmaterialien starten**](https://mybinder.org/v2/gh/nilsleiffischer/python-course/deploy?filepath=index.ipynb)
-- [Kurs offline installieren](http://nbviewer.jupyter.org/github/nilsleiffischer/python-course/blob/master/setup.ipynb)
-- [Kursmaterialien nur lesen](http://nbviewer.jupyter.org/github/nilsleiffischer/python-course/blob/master/index.ipynb)
-
-Pull-Requests mit Verbesserungsvorschlägen sind immer willkommen! Richtet diese an das [nilsleiffischer/python-course](https://github.com/nilsleiffischer/python-course) Repository. Außerdem könnt ihr uns über folgende Umfrage euer Feedback mitteilen:
-
-- [Feedback zum Online-Einführungskurs und Python im PAP](https://goo.gl/forms/nvuPvEOCP1CMrp5X2)
+- [Einleitung](INTRO.md): Hier startet das Tutorial.
+ 
+Pull-Requests mit Verbesserungsvorschlägen sind immer willkommen! 
 
 
 ## Credits
 
-Der Kurs wurde konzipiert und implementiert von [Nils Fischer](http://nilsleiffischer.de).
+Vielen Dank an [Nils Fischer](http://nilsleiffischer.de), an dessen [Vorlage](https://github.com/nilsvu/python-course) wir uns orientiert haben! 
 
 Die Inhalte basieren auf dem Kurs [_Python: Programming for Scientists_](https://github.com/astrofrog/py4sci) von [Thomas Robitaille](http://www2.mpia-hd.mpg.de/~robitaille/).
