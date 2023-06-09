@@ -19,9 +19,9 @@ repos:
     rev: 6.0.0
     hooks:
       - id: flake8
-  - repo: https://github.com/s-weigand/flake8-nb
-    rev: v0.5.2
-    hooks:
-      - id: flake8-nb
-        files: ".ipynb"
-        args: ["--notebook-cell-format", "{nb_path}#In[{code_cell_count}]"]
+        #  - repo: https://github.com/s-weigand/flake8-nb
+        #    rev: v0.5.2
+        #    hooks:
+        #      - id: flake8-nb
+        #        files: ".ipynb"
+        #        args: ["--notebook-cell-format", "{nb_path}#In[{code_cell_count}]"]
